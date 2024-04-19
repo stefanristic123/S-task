@@ -1,0 +1,9 @@
+@import '../../colors.scss';
+
+mat-toolbar{
+    justify-content: space-evenly;
+}
+
+a {
+    color: $app-warn;
+}
